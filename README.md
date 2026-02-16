@@ -2,6 +2,11 @@
 
 A practical Python tool to analyze **effective vocal duration** in WAV files for RVC (Retrieval-based Voice Conversion) training.
 
+## Language / 语言
+
+- English: [README.md](README.md)
+- 简体中文: [README.zh-CN.md](README.zh-CN.md)
+
 ---
 
 Designed for clean studio recordings with minimal noise, this tool helps you:
