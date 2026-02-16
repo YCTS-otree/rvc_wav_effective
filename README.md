@@ -244,7 +244,7 @@ min_voice_ms: 600+
 
 ## License
 
-MIT License
+GPL v3.0
 
 ---
 
